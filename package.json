@@ -12,7 +12,8 @@
     "postgres",
     "riak",
     "mongo",
-    "mongodb"
+    "mongodb",
+	"oracle"
   ],
   "version": "0.0.26",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
@@ -28,6 +29,7 @@
     "utilities": "0.0.x",
     "mongodb-wrapper": "0.4.x",
     "pg": "0.7.x"
+	, "db-oracle": "0.2.3"
   },
   "engines": {
     "node": "*"
